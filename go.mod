@@ -1,0 +1,5 @@
+module example.com/pz13-rabbit
+
+go 1.22.0
+
+require github.com/rabbitmq/amqp091-go v1.11.0
